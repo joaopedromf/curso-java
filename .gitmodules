@@ -1,3 +1,6 @@
 [submodule "Seção 16/projeto"]
 	path = Seção 16/projeto
 	url = https://github.com/joaopedromf/chess-system-java
+[submodule "Seção 21/demo-dao-jdbc"]
+	path = Seção 21/demo-dao-jdbc
+	url = https://github.com/joaopedromf/demo-dao-jdbc
