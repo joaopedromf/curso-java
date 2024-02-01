@@ -4,3 +4,6 @@
 [submodule "Seção 21/demo-dao-jdbc"]
 	path = Seção 21/demo-dao-jdbc
 	url = https://github.com/joaopedromf/demo-dao-jdbc
+[submodule "Seção 23/workshop-springboot3-jpa"]
+	path = Seção 23/workshop-springboot3-jpa
+	url = https://github.com/joaopedromf/workshop-springboot3-jpa
