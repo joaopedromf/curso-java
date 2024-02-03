@@ -7,3 +7,6 @@
 [submodule "Seção 23/workshop-springboot3-jpa"]
 	path = Seção 23/workshop-springboot3-jpa
 	url = https://github.com/joaopedromf/workshop-springboot3-jpa
+[submodule "Seção 24/workshopmongo"]
+	path = Seção 24/workshopmongo
+	url = https://github.com/joaopedromf/workshop-spring-boot-mongodb
